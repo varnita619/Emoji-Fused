@@ -1,0 +1,19 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+body {
+  margin: 0px;
+  font-family: "Lato", sans-serif;
+  background-color: #efefef;
+}
+
+input {
+  padding: 1rem;
+  width: 80%;
+}
+
+.App {
+  margin-top: 0px;
+  background: linear-gradient(#9ce3ff 0%, #fd878d 90%);
+}
